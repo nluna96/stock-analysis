@@ -24,10 +24,10 @@ From the results below 2017 was a positive year for all stocks except TERP which
 
 ### Summary
 
+
 ![2017 Processing Time Original](Resources/2017_Original.png)
 
 ![2018 Processing Time Original](Resources/2018_Original.png)
-
 
 
 ---Results
