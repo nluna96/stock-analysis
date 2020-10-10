@@ -7,6 +7,16 @@ The purpose of this project is to get a better understanding of the provided sto
 ### Results
 
 
+![2017 Processing time](Resources/VBA_Challenge_2017.png)
+
+
+
+
+![2018 Processing time](Resources/VBA_Challenge_2018.png)
+
+
+
+
 ---Results
 The analysis is well described with screenshots and code (4 pt).
 ---Summary
