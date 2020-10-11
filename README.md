@@ -24,14 +24,14 @@ From the results below 2017 was a positive year for all stocks except TERP which
 
 ### Summary
 
+There are two main advantages to refactoring code are having dynamic code and efficency. Prior to refactoring code the for loops inside the macro were not as dynamic and had the person writing the for loops had to initialize values after every loop interation. 
+
+For this macro refactoring code reduced processing time. This can be seen when comparing the processing time process time prior and after refactoring. Below the average processing time for the macro prior to refactoring was about 0.76 seconds. After refactoring the code became much faster because the average processing time was about 0.59 seconds. 
 
 ![2017 Processing Time Original](Resources/2017_Original.png)
 
 ![2018 Processing Time Original](Resources/2018_Original.png)
 
-
----Results
-The analysis is well described with screenshots and code (4 pt).
 ---Summary
 There is a detailed statement on the advantages and disadvantages of refactoring code in general (3 pt).
 There is a detailed statement on the advantages and disadvantages of the original and refactored VBA script (3 pt).
