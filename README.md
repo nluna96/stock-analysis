@@ -36,5 +36,11 @@ For this macro refactoring code reduced processing time. This can be seen when c
 
 ![2018 Processing Time Original](Resources/2018_Original.png)
 
+That being said two disadtagages by refactoring the code are limiting array lengths and code complexity. For this particular example there were only 12 different tickers that could be used. What would happen if two more tickers would be added to the list of tickers. If someone would try to execute the macro, the macro would fail because the arrays are set to only hold 12 values. Below is a snippet of the initialised arrays that can only hold 12 values.
+
+![Arrays](Resources/arrays.png)
+
+Furthermore, by refactoring code the macro increases in complexity. Which means that its difficult to follow along the code unless there is detailed documentation explaing each line. Without detialed documentaion it would almost be impossiple to understand what the person who wrote the code was trying to achueve. 
+
 
 There is a detailed statement on the advantages and disadvantages of the original and refactored VBA script (3 pt).
