@@ -28,7 +28,7 @@ The two main advantages to refactoring code are having dynamic code and efficenc
 
 ![for loop](Resources/forLoop.png)
 
-![Refactored for loop](Resources/refactoredForLoop.png)
+![Refactored for loop](Resources/refaForLoop.png)
 
 For this macro refactoring code reduced processing time. This can be seen when comparing the processing time process time prior and after refactoring. Below the average processing time for the macro prior to refactoring was about 0.76 seconds. After refactoring the code became much faster because the average processing time was about 0.59 seconds. 
 
