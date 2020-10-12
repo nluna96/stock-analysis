@@ -24,7 +24,11 @@ From the results below 2017 was a positive year for all stocks except TERP which
 
 ### Summary
 
-There are two main advantages to refactoring code are having dynamic code and efficency. Prior to refactoring code the for loops inside the macro were not as dynamic and had the person writing the for loops had to initialize values after every loop interation. 
+The two main advantages to refactoring code are having dynamic code and efficency. Prior to refactoring code the for loops inside the macro were not as dynamic which then forces values to be reinitialized after every loop interation. As you can see in the images below the original for loop had to reinitilise the value totalVolume while in the refactored for loop the values for totalVolume were stored in an array. By appending values to an array there would be no need to reinitilise values and the array contains totalVolumes that can be indexed by ticker.
+
+![for loop](Resources/forLoop.png)
+
+![Refactored for loop](Resources/refactoredForLoop.png)
 
 For this macro refactoring code reduced processing time. This can be seen when comparing the processing time process time prior and after refactoring. Below the average processing time for the macro prior to refactoring was about 0.76 seconds. After refactoring the code became much faster because the average processing time was about 0.59 seconds. 
 
