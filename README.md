@@ -36,6 +36,5 @@ For this macro refactoring code reduced processing time. This can be seen when c
 
 ![2018 Processing Time Original](Resources/2018_Original.png)
 
----Summary
-There is a detailed statement on the advantages and disadvantages of refactoring code in general (3 pt).
+
 There is a detailed statement on the advantages and disadvantages of the original and refactored VBA script (3 pt).
