@@ -18,7 +18,7 @@ From the results below 2017 was a positive year for all stocks except TERP which
 
 ![2017 Results](Resources/2017_Results.png)
 
-2018 was a negative year for all stocks except ENPH and RUN. ENPH had an 81.9% return and RUN had an 84% return for the year 2018. DQ had a -62.6 percent year return which is the highest negative year return compared to the other stocks in this data set. Hopefully, Steve can persuade his parents to find a stock that does not have the highest year return but has a positive year return for both years. Based on the data ENPH would be the best stock to go for because both 2017 and 2018 have positive high returns. ENPH does not have the overall highest return compared to other stocks, however, it has a constant positive return for the years 2017 and 2018. 
+2018 was a negative year for all stocks except ENPH and RUN. ENPH had an 81.9% return and RUN had an 84% return for the year 2018. DQ had a -62.6% year return which is the highest negative year return compared to the other stocks in this data set. Hopefully, Steve can persuade his parents to find a stock that does not have the highest year return but has a positive year return for both years. Based on the data ENPH would be the best stock to go for because both 2017 and 2018 have positive high returns. ENPH does not have the overall highest return compared to other stocks, however, it has a constant positive return for the years 2017 and 2018. 
 
 ![2018 Results](Resources/2018_Results.png)
 
