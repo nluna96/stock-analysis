@@ -40,7 +40,8 @@ That being said two disadtagages by refactoring the code are limiting array leng
 
 ![Arrays](Resources/arrays.png)
 
-Furthermore, by refactoring code the macro increases in complexity. Which means that its difficult to follow along the code unless there is detailed documentation explaing each line. Without detialed documentaion it would almost be impossiple to understand what the person who wrote the code was trying to achueve. 
+Furthermore, by refactoring code the macro increases in complexity. Which means that its difficult to follow along the code unless there is detailed documentation explaing each line. Without detialed documentaion it would almost be impossiple to understand what the person who wrote the code was trying to achieve. 
+
 
 
 There is a detailed statement on the advantages and disadvantages of the original and refactored VBA script (3 pt).
